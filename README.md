@@ -1,9 +1,11 @@
 # Development-of-a-mobile-blockchain-application
+## The link to demo: https://www.youtube.com/watch?v=4UHXJ4qQ8HA&t=10s&ab_channel=Madiyar
 ## Disclaimer
 
 Please note that documents in this repository are provided in PDF format. 
 
 **Important:** To view these documents in PDF format, they must first be downloaded. They may not be available for direct viewing in a browser or online viewing. Download the files and open them using a PDF reader on your device.
+
 
 The diploma project called "Development of a mobile blockchain application", made by Kaliyev Madiyar and Kozhakhmetov Narbek, presents the development of a crowdfunding mobile application leveraging blockchain technology to enhance security, transparency, and efficiency in fundraising. The application was designed and implemented using React Native and Expo for the frontend, and Solidity smart contracts deployed on the Ethereum blockchain for the backend. WalletConnect and Wagmi were integrated to facilitate secure wallet connections and blockchain interactions, eliminating the need for traditional email and password authentication. The diploma work consists of 78 pages, 27 references and 19 figures.
 
